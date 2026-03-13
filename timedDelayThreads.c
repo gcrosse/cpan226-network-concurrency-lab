@@ -1,3 +1,10 @@
+/*
+Author: Geoffrey Crosse
+Course: CPAN226
+LAB 4: Network Concurrency
+*/
+
+
 //Included pthread
 #include <pthread.h>
 #include <stdio.h>
